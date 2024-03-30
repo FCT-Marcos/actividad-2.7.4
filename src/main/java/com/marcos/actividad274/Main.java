@@ -4,7 +4,7 @@ import java.util.logging.Logger;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
-import com.marcos.products.Producto;
+import com.marcos.actividad274.products.Producto;
 
 public class Main {
 
